@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/room-app/static/css/main.9a5c6096.css",
+    "main.js": "/room-app/static/js/main.6ef00d90.js",
+    "static/js/453.7fe9b7c1.chunk.js": "/room-app/static/js/453.7fe9b7c1.chunk.js",
+    "index.html": "/room-app/index.html",
+    "main.9a5c6096.css.map": "/room-app/static/css/main.9a5c6096.css.map",
+    "main.6ef00d90.js.map": "/room-app/static/js/main.6ef00d90.js.map",
+    "453.7fe9b7c1.chunk.js.map": "/room-app/static/js/453.7fe9b7c1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a5c6096.css",
+    "static/js/main.6ef00d90.js"
+  ]
+}
